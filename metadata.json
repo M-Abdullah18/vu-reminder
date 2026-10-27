@@ -1,0 +1,6 @@
+{
+  "name": "VU Smart Deadline Manager",
+  "description": "Smart academic deadline manager for Virtual University of Pakistan students with AI extraction from LMS screenshots and PDFs, Pakistan Standard Time countdowns, and reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
